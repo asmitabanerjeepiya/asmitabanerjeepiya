@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [N.A.](N.A.)
 
-- 👨‍💻 All of my projects are available at [N.A.](N.A.)
+- 👨‍💻 All of my projects are available at [My Portfolio](asmitabanerjee.github.io/Portfolio)
 
 - 📝 I regularly write articles on [N.A.](N.A.)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **asmitabanerjee106@gmail.com**
 
-- 📄 Know about my experiences [N.A.](N.A.)
+- 📄 Know about my experiences [My Portfolio](asmitabanerjee.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
